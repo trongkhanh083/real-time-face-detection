@@ -11,6 +11,7 @@ A computer vision application that performs real-time face detection using multi
   - Haar Cascades (fast, lightweight)
 
 ## ⚙️ Installation
+- Python 3.10+
    ```bash
    git clone https://github.com/trongkhanh083/real-time-face-detection.git
    cd real-time-face-detection
